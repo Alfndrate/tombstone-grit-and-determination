@@ -1,0 +1,16 @@
+***Character Creation***
+
+Stat Generation:
+Players will shuffle a standard 52 card deck including the red and black jokers.
+Players will generate 3 hands of 5 cards and add up the quality of cards drawn.
+Black Joker: 0
+Ace through 5: 1
+6 through 10: 2
+Jack through King: 3
+Red Joker: 4
+
+Once each hand is drawn, note any pairs.
+
+**Hit Protection**
+Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
+
