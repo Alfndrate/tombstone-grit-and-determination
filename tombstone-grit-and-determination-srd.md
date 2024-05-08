@@ -1,3 +1,35 @@
+# Tombstone - Grit & Determination System Reference Document (v.0.1)
+
+**Tombstone 0 Grit & Determination** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Peruse the [repo](https://github.com/Alfndrate/tombstone-grit-and-determination)
+
+**Tombstone - Grit & Determination** is an adventure game for one referee (the **Ranger**) and at least one other player.
+Players act as hardened adventurers exploring a badland filled with odd folk, gamblin', and danger in them thar hills!
+
+## Overview
+Fill this in later
+
+### Neutral Arbiter
+The Ranger's role is to portray the world and the individual that reside in it clearly and effectively, while remaining neutral.
+
+### Classless
+A character is not defined by a line on the sheet, but by the grit in their heart and the iron on their hip.
+
+### Death
+Thunder Mesa County is a dangerous place and while the characters are rootin' and tootin', death is around the corner, but it should never be a shot in the back.
+
+### Know when to hold them
+Drawing from the deck is dangerous, and it may not go in the characters' favor. Plans should be careful, and cards drawn when only when the threat of failure could mean death.
+
+### Growth
+Characters should shape and be shaped by the events of the world. New skills and abilities should be earned by overcoming dangerous obstacles and harrowing adventures.
+
+### Player Choice
+Players should always know and understand the high level consequences of their actions. Picking up a rattlesnake might not end in death, but it should be given as a risk.
+
+### Shared Objectives
+Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+
 ## Character Creation
 
 **Name, Background, Traits**
