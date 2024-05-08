@@ -1,5 +1,8 @@
 ***Character Creation***
 
+**Name, Background, Traits
+Before you start draw, choose your character's name and background. A PC's background influences their knowledge and skills. 
+
 Stat Generation:
 Players will shuffle a standard 52 card deck including the red and black jokers.
 Players will generate 3 hands of 5 cards and add up the quality of cards drawn, and assign them to your stats in order.
@@ -18,4 +21,17 @@ Strength (STR), Dexterity (DEX), and Grit (GRT). When creating a PC, the player 
 **Hit Protection**
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
 
-**Name, Background, Traits
+
+**Names & Background**
+2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names
+2	|	John	|	Mary	|	Silas
+3	|	William	|	Anna	|	Arthur
+4	|	James	|	Emma	|	Wyatt
+5	|	George	|	Elizabeth	|	Amos
+6	|	Charles	|	Margaret	|	Billie
+7	|	Frank	|	Minnie	|	Cassidy
+8	|	Joseph	|	Ida	|	Hayden
+9	|	Henry	|	Bertha	|	Jesse
+10	|	Robert	|	Clara	|	Kit
+11	|	Thomas	|	Alice	|	Jane
+12	|	Edward	|	Grace	|	Quinn
