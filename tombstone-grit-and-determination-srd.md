@@ -1,4 +1,4 @@
-##Character Creation##
+##Character Creation
 
 **Name, Background, Traits**
 Before you start draw, choose your character's name and background. A PC's background influences their knowledge and skills. 
