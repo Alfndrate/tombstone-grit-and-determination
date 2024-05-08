@@ -123,12 +123,13 @@ Face (Diamonds)
 |5 	Pale	|	10 	Sunken	|
 
 Speech (Clubs)
-| ----------- | ----------- |
-|1 	Blunt	|	6 	Gravelly	|
-|2 	Booming	| 7 	Precise	|
-|3 	Cryptic	|	8 	Squeaky	|
-|4 	Droning	|	9 	Stuttering	|
-|5 	Formal	|	10 	Whispery	|
+|   	|         	|    	|            	|   	|
+|---	|---------	|----	|------------	|---	|
+| 1 	| Blunt   	| 6  	| Gravelly   	|   	|
+| 2 	| Booming 	| 7  	| Precise    	|   	|
+| 3 	| Cryptic 	| 8  	| Squeaky    	|   	|
+| 4 	| Droning 	| 9  	| Stuttering 	|   	|
+| 5 	| Formal  	| 10 	| Whispery   	|   	|
 
 Virtue (Spades)
 | ----------- | ----------- |
