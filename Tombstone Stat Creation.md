@@ -80,7 +80,7 @@ If you would like something closer to traditional classes, refer to the list of 
 *Backgrounds*
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
 |	Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs	|
-| ----------- | ----------- | ----------- | ----------- | ----	|
+| :-----------: | :-----------: | :-----------: | :-----------: | :----:	|
 |1	|	Actor	|	Government Agent	|	Author	|	Painter	|
 |2	|	Salesman	|	Showman	|	Carnival Worker	|	Singer	|
 |3	|	Orpha	|	Cook	|	Cattle Driver	|	Stagecoach driver	|
@@ -100,7 +100,7 @@ Separate the deck into its suits, draw once for each trait.
 
 Physique (Spades)
 |   	|          	|    	|            	|
-|---	|----------	|----	|------------	|
+| :---:	| :----------:	| :----:	| :------------:	|
 | 1 	| Athletic 	| 6  	| Scrawny    	|
 | 2 	| Brawny   	| 7  	| Short      	|
 | 3 	| Flabby   	| 8  	| Statuesque 	|
@@ -109,7 +109,7 @@ Physique (Spades)
 
 Hair (Hearts)
 |   	|         	|    	|           	|
-|---	|---------	|----	|-----------	|
+|:---:	|:---------:	|:----:	|:-----------:	|
 | 1 	| Bald    	| 6  	| Long      	|
 | 2 	| Braided 	| 7  	| Luxurious 	|
 | 3 	| Curly   	| 8  	| Oily      	|
@@ -118,7 +118,7 @@ Hair (Hearts)
 
 Face (Diamonds)
 |   	|           	|    	|          	|
-|---	|-----------	|----	|----------	|
+|:---:	|:-----------:	|:----:	|:----------:	|
 | 1 	| Bony      	| 6  	| Perfect  	|
 | 2 	| Broken    	| 7  	| Rat-like 	|
 | 3 	| Chiseled  	| 8  	| Sharp    	|
@@ -127,7 +127,7 @@ Face (Diamonds)
 
 Speech (Clubs)
 |   	|         	|    	|            	|
-|---	|---------	|----	|------------	|
+|:---:	|:---------:	|:----:	|:------------:	|
 | 1 	| Blunt   	| 6  	| Gravelly   	|
 | 2 	| Booming 	| 7  	| Precise    	|
 | 3 	| Cryptic 	| 8  	| Squeaky    	|
@@ -136,7 +136,7 @@ Speech (Clubs)
 
 Virtue (Spades)
 |   	|             	|    	|           	|
-|---	|-------------	|----	|-----------	|
+|:---:	|:-------------:	|:----:	|:-----------:	|
 | 1 	| Ambitious   	| 6  	| Honorable 	|
 | 2 	| Cautious    	| 7  	| Humble    	|
 | 3 	| Courageous  	| 8  	| Merciful  	|
@@ -145,7 +145,7 @@ Virtue (Spades)
 
 Vice (Hearts)
 |   	|            	|    	|          	|
-|---	|------------	|----	|----------	|
+|:---:	|:------------:	|:----:	|:----------:	|
 | 1 	| Aggressive 	| 6  	| Lazy     	|
 | 2 	| Bitter     	| 7  	| Nervous  	|
 | 3 	| Craven     	| 8  	| Rude     	|
@@ -154,7 +154,7 @@ Vice (Hearts)
 
 Reputation (Diamonds)
 |   	|             	|    	|           	|
-|---	|-------------	|----	|-----------	|
+|:---:	|:-------------:	|:----:	|:-----------:	|
 | 1 	| Ambitious   	| 6  	| Loafer    	|
 | 2 	| Boor        	| 7  	| Oddball   	|
 | 3 	| Dangerous   	| 8  	| Repulsive 	|
@@ -163,7 +163,7 @@ Reputation (Diamonds)
 
 Misfortunes (Clubs)
 |   	|             	|    	|             	|
-|---	|-------------	|----	|-------------	|
+|:---:	|:-------------:	|:----:	|:-------------:	|
 | 1 	| Abandoned   	| 6  	| Defrauded   	|
 | 2 	| Addicted    	| 7  	| Demoted     	|
 | 3 	| Blackmailed 	| 8  	| Discredited 	|
