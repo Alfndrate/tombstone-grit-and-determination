@@ -1,7 +1,7 @@
 # Tombstone - Grit & Determination System Reference Document (v.0.1)
 
 **Tombstone 0 Grit & Determination** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/Alfndrate/tombstone-grit-and-determination)
+
 
 **Tombstone - Grit & Determination** is an adventure game for one referee (the **Ranger**) and at least one other player.
 Players act as hardened adventurers exploring a badland filled with odd folk, gamblin', and danger in them thar hills!
