@@ -35,3 +35,20 @@ Draw 2 cards and use the above quality to determine starting Hit Protection, add
 10	|	Robert	|	Clara	|	Kit
 11	|	Thomas	|	Alice	|	Jane
 12	|	Edward	|	Grace	|	Quinn
+
+*Backgrounds*
+Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
+Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs
+1	|	Actor	|	Government Agent	|	Author	|	Painter
+2	|	Salesman	|	Showman	|	Carnival Worker	|	Singer
+3	|	Orpha	|	Cook	|	Cattle Driver	|	Stagecoach driver
+4	|	Farmer	|	Fisherman	|	Herder	|	Homesteader
+5	|	Housekeeper	|	Hunter	|	Lumberjack	|	School teacher
+6	|	Miner	| Rancher	| Prospector	| Butler	| Horse trainer
+7	|	Bartender	|	Pianist	|	Bounty Hunter	|	Dancer
+8	|	Gambler	|	Deserter	|	Cat Burgler	|	Outlaw
+9	|	Pickpocket	|	Politician	|	Charlatan	|	Banker
+10	|	Doctor	|	Laborer	|	Conductor	|	Railroad Worker
+Jack	|	Seamstress	|	Clergyman	|	Journalist	| Judge
+Queen	|	Nun	|	Preacher	|	Boatman	|	Scout
+King	|	Soldier	|	Undertaker	|	Barber	|	Blacksmith
