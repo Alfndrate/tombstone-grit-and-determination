@@ -2,7 +2,7 @@
 
 Stat Generation:
 Players will shuffle a standard 52 card deck including the red and black jokers.
-Players will generate 3 hands of 5 cards and add up the quality of cards drawn.
+Players will generate 3 hands of 5 cards and add up the quality of cards drawn, and assign them to your stats in order.
 Black Joker: 0
 Ace through 5: 1
 6 through 10: 2
@@ -11,6 +11,11 @@ Red Joker: 4
 
 Once each hand is drawn, note any pairs.
 
+**Ability Scores**
+Player Characters (PCs) have just three attributes:
+Strength (STR), Dexterity (DEX), and Grit (GRT). When creating a PC, the player should draw 3 hands of 5 for each of their character’s ability scores, in order. They may then swap any two of the results.
+
 **Hit Protection**
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
 
+**Name, Background, Traits
