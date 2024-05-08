@@ -1,6 +1,6 @@
 ***Character Creation***
 
-**Name, Background, Traits
+**Name, Background, Traits**
 Before you start draw, choose your character's name and background. A PC's background influences their knowledge and skills. 
 
 Stat Generation:
@@ -63,7 +63,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 
 **Names & Background**
-2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names
+|2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
+| ----------- | ----------- |
 2	|	John	|	Mary	|	Silas
 3	|	William	|	Anna	|	Arthur
 4	|	James	|	Emma	|	Wyatt
