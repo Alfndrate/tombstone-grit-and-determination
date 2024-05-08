@@ -63,7 +63,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 
 **Names & Background**
-|2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
+|	2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
 | ----------- | ----------- | ----------- | ----------- |
 |2	|	John	|	Mary	|	Silas	|
 |3	|	William	|	Anna	|	Arthur	|
@@ -79,53 +79,59 @@ If you would like something closer to traditional classes, refer to the list of 
 
 *Backgrounds*
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
-Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs
-1	|	Actor	|	Government Agent	|	Author	|	Painter
-2	|	Salesman	|	Showman	|	Carnival Worker	|	Singer
-3	|	Orpha	|	Cook	|	Cattle Driver	|	Stagecoach driver
-4	|	Farmer	|	Fisherman	|	Herder	|	Homesteader
-5	|	Housekeeper	|	Hunter	|	Lumberjack	|	School teacher
-6	|	Miner	| Rancher	| Prospector	| Butler	| Horse trainer
-7	|	Bartender	|	Pianist	|	Bounty Hunter	|	Dancer
-8	|	Gambler	|	Deserter	|	Cat Burgler	|	Outlaw
-9	|	Pickpocket	|	Politician	|	Charlatan	|	Banker
-10	|	Doctor	|	Laborer	|	Conductor	|	Railroad Worker
-Jack	|	Seamstress	|	Clergyman	|	Journalist	| Judge
-Queen	|	Nun	|	Preacher	|	Boatman	|	Scout
-King	|	Soldier	|	Undertaker	|	Barber	|	Blacksmith
+|	Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs	|
+| ----------- | ----------- | ----------- | ----------- |
+|1	|	Actor	|	Government Agent	|	Author	|	Painter	|
+|2	|	Salesman	|	Showman	|	Carnival Worker	|	Singer	|
+|3	|	Orpha	|	Cook	|	Cattle Driver	|	Stagecoach driver	|
+|4	|	Farmer	|	Fisherman	|	Herder	|	Homesteader	|
+|5	|	Housekeeper	|	Hunter	|	Lumberjack	|	School teacher	|
+|6	|	Miner	| Rancher	| Prospector	| Butler	| Horse trainer	|
+|7	|	Bartender	|	Pianist	|	Bounty Hunter	|	Dancer	|
+|8	|	Gambler	|	Deserter	|	Cat Burgler	|	Outlaw	|
+|9	|	Pickpocket	|	Politician	|	Charlatan	|	Banker	|
+|10	|	Doctor	|	Laborer	|	Conductor	|	Railroad Worker	|
+|Jack	|	Seamstress	|	Clergyman	|	Journalist	| Judge	|
+|Queen	|	Nun	|	Preacher	|	Boatman	|	Scout	|
+|King	|	Soldier	|	Undertaker	|	Barber	|	Blacksmith	
 
 *Traits*
 Separate the deck into its suits, draw once for each trait.
 
 Physique (Spades)
-1 	Athletic 	6 	Scrawny
-2 	Brawny 	7 	Short
-3 	Flabby 	8 	Statuesque
-4 	Lanky 	9 	Stout
-5 	Rugged 	10 	Towering
+| ----------- | ----------- |
+|1 	Athletic	|	6 	Scrawny	|
+|2 	Brawny	|	7 	Short	|
+|3 	Flabby	|	8 	Statuesque	|
+|4 	Lanky	|	9 	Stout	|
+|5 	Rugged	|	10 	Towering	|
 
 Hair (Hearts)
-1 	Bald 	6 	Long
-2 	Braided 	7 	Luxurious
-3 	Curly 	8 	Oily
-4 	Filthy 	9 	Wavy
-5 	Frizzy 	10 	Wispy
+| ----------- | ----------- |
+|1 	Bald	|	6 	Long	|
+|2 	Braided	|	7 	Luxurious	|
+|3 	Curly	|	8 	Oily	|
+|4 	Filthy	|	9 	Wavy	|
+|5 	Frizzy	|	10 	Wispy	|
 
 Face (Diamonds)
-1 	Bony 	6 	Perfect
-2 	Broken 	7 	Rat-like
-3 	Chiseled 	8 	Sharp
-4 	Elongated 	9 	Square
-5 	Pale 	10 	Sunken
+| ----------- | ----------- |
+|1 	Bony	|	6 	Perfect	|
+|2 	Broken	|	7 	Rat-like	|
+|3 	Chiseled	|	8 	Sharp	|
+|4 	Elongated	|	9 	Square	|
+|5 	Pale	|	10 	Sunken	|
 
 Speech (Clubs)
-1 	Blunt 	6 	Gravelly
-2 	Booming 	7 	Precise
-3 	Cryptic 	8 	Squeaky
-4 	Droning 	9 	Stuttering
-5 	Formal 	10 	Whispery
+| ----------- | ----------- |
+|1 	Blunt	|	6 	Gravelly	|
+|2 	Booming	| 7 	Precise	|
+|3 	Cryptic	|	8 	Squeaky	|
+|4 	Droning	|	9 	Stuttering	|
+|5 	Formal	|	10 	Whispery	|
 
 Virtue (Spades)
+| ----------- | ----------- |
 1 	Ambitious 	6 	Honorable
 2 	Cautious 	7 	Humble
 3 	Courageous 	8 	Merciful
