@@ -64,18 +64,18 @@ If you would like something closer to traditional classes, refer to the list of 
 
 **Names & Background**
 |2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
-| ----------- | ----------- |
-2	|	John	|	Mary	|	Silas
-3	|	William	|	Anna	|	Arthur
-4	|	James	|	Emma	|	Wyatt
-5	|	George	|	Elizabeth	|	Amos
-6	|	Charles	|	Margaret	|	Billie
-7	|	Frank	|	Minnie	|	Cassidy
-8	|	Joseph	|	Ida	|	Hayden
-9	|	Henry	|	Bertha	|	Jesse
-10	|	Robert	|	Clara	|	Kit
-11	|	Thomas	|	Alice	|	Jane
-12	|	Edward	|	Grace	|	Quinn
+| ----------- | ----------- | ----------- | ----------- |
+|2	|	John	|	Mary	|	Silas	|
+|3	|	William	|	Anna	|	Arthur	|
+|4	|	James	|	Emma	|	Wyatt	|
+|5	|	George	|	Elizabeth	|	Amos	|
+|6	|	Charles	|	Margaret	|	Billie	|
+|7	|	Frank	|	Minnie	|	Cassidy	|
+|8	|	Joseph	|	Ida	|	Hayden	|
+|9	|	Henry	|	Bertha	|	Jesse	|
+|10	|	Robert	|	Clara	|	Kit	|
+|11	|	Thomas	|	Alice	|	Jane	|
+|12	|	Edward	|	Grace	|	Quinn	|
 
 *Backgrounds*
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
