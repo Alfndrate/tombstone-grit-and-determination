@@ -21,6 +21,29 @@ Strength (STR), Dexterity (DEX), and Grit (GRT). When creating a PC, the player 
 **Hit Protection**
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
 
+**Inventory**
+
+Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
+
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden’s discretion.
+
+Bulky items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. Hirelings can also be paid to carry equipment.
+Starting Gear
+
+All PCs begin with:
+
+    Three days’ rations (one slot)
+    A torch (one slot)
+    10 dollars
+
+--Roll once on each of the Starting Gear tables to determine your PC’s armor, weapons, tools, and equipment. If indicated, roll on the Spellbooks table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+
+--See the Equipment List for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+
+--If you would like something closer to traditional classes, refer to the list of Optional Gear Packages.
+
 
 **Names & Background**
 2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names
@@ -52,3 +75,62 @@ Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs
 Jack	|	Seamstress	|	Clergyman	|	Journalist	| Judge
 Queen	|	Nun	|	Preacher	|	Boatman	|	Scout
 King	|	Soldier	|	Undertaker	|	Barber	|	Blacksmith
+
+*Traits*
+Separate the deck into its suits, draw once for each trait.
+
+Physique (Spades)
+1 	Athletic 	6 	Scrawny
+2 	Brawny 	7 	Short
+3 	Flabby 	8 	Statuesque
+4 	Lanky 	9 	Stout
+5 	Rugged 	10 	Towering
+
+Hair (Hearts)
+1 	Bald 	6 	Long
+2 	Braided 	7 	Luxurious
+3 	Curly 	8 	Oily
+4 	Filthy 	9 	Wavy
+5 	Frizzy 	10 	Wispy
+
+Face (Diamonds)
+1 	Bony 	6 	Perfect
+2 	Broken 	7 	Rat-like
+3 	Chiseled 	8 	Sharp
+4 	Elongated 	9 	Square
+5 	Pale 	10 	Sunken
+
+Speech (Clubs)
+1 	Blunt 	6 	Gravelly
+2 	Booming 	7 	Precise
+3 	Cryptic 	8 	Squeaky
+4 	Droning 	9 	Stuttering
+5 	Formal 	10 	Whispery
+
+Virtue (Spades)
+1 	Ambitious 	6 	Honorable
+2 	Cautious 	7 	Humble
+3 	Courageous 	8 	Merciful
+4 	Disciplined 	9 	Serene
+5 	Gregarious 	10 	Tolerant
+
+Vice (Hearts)
+1 	Aggressive 	6 	Lazy
+2 	Bitter 	7 	Nervous
+3 	Craven 	8 	Rude
+4 	Deceitful 	9 	Vain
+5 	Greedy 	10 	Vengeful
+
+Reputation (Diamonds)
+1 	Ambitious 	6 	Loafer
+2 	Boor 	7 	Oddball
+3 	Dangerous 	8 	Repulsive
+4 	Entertainer 	9 	Respected
+5 	Honest 	10 	Wise
+
+Misfortunes (Clubs)
+1 	Abandoned 	6 	Defrauded
+2 	Addicted 	7 	Demoted
+3 	Blackmailed 	8 	Discredited
+4 	Condemned 	9 	Disowned
+5 	Cursed 	10 	Exiled
