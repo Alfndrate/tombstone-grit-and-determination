@@ -12,11 +12,13 @@ Ace through 5: 1
 Jack through King: 3
 Red Joker: 4
 
+There is a chance that a character gets a number higer than 18. If a character would have an ability score over 18 that ability score is 18, and any remaining points are transferred to the character's Luck ability.
+
 Once each hand is drawn, note any pairs.
 
 **Ability Scores**
-Player Characters (PCs) have just three attributes:
-Strength (STR), Dexterity (DEX), and Grit (GRT). When creating a PC, the player should draw 3 hands of 5 for each of their character’s ability scores, in order. They may then swap any two of the results.
+Player Characters (PCs) have just four attributes:
+Strength (STR), Dexterity (DEX), Grit (GRT), and Luck (Lck). When creating a PC, the player should draw 3 hands of 5 for each of their character’s ability scores, in order. They may then swap any two of the results. They also have "fourth" ability called Luck. This ability is a pool that fills and empties throughout play and can start filled if a character is lucky enough to have an ability score over 18.
 
 **Hit Protection**
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
@@ -57,11 +59,7 @@ Lighter Boy ($s): STR 3Draw, lantern, club.
 Mercenary ($5): 2Draw hp, musket, sword.
 Expert ($10): Pistol, expertise in a specific area.
 
---Roll once on each of the Starting Gear tables to determine your PC’s armor, weapons, tools, and equipment. If indicated, roll on the Spellbooks table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
-
---See the Equipment List for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
-
---If you would like something closer to traditional classes, refer to the list of Optional Gear Packages.
+If you would like something closer to traditional classes, refer to the list of Optional Gear Packages.
 
 
 **Names & Background**
