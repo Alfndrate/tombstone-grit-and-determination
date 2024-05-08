@@ -80,7 +80,7 @@ If you would like something closer to traditional classes, refer to the list of 
 *Backgrounds*
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
 |	Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs	|
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----	|
 |1	|	Actor	|	Government Agent	|	Author	|	Painter	|
 |2	|	Salesman	|	Showman	|	Carnival Worker	|	Singer	|
 |3	|	Orpha	|	Cook	|	Cattle Driver	|	Stagecoach driver	|
