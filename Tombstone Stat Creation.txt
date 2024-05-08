@@ -38,6 +38,25 @@ All PCs begin with:
     A torch (one slot)
     10 dollars
 
+**Equipment**
+Unarmed Attack - d4 Damage (punch, kick, bite, etc...)
+Improvised Weapon ($1) - d4 Damage (pitchfork, whiskey bottle, etc...) 
+Hand Weapon ($3) - d6 Damage (Knife, Hand axe, Brass Knuckles, Club, Cane, Derringer, Revolver, etc...)
+Field Weapon ($15) - d8 Damage, Bulky (Carbine, Brace of Pistols, shotgun, fireman's axe, two-handed weapons)
+Heavy Gun ($15) - d10 Damage, Bulky, Cannot move and fire (Longrifle, elephant gun)
+
+Tools ($1 each) - Crowbar, saw, glue, magnifying glass, manacles, animal trap, lockpicks, mirror, writing set, fishing pole, shovel, grappling hook, collapsible pole, 20ft rope, spikes, etc. 
+Luxuries ($100) - Clockwork items, thermometer, elaborate clothes, jewellery, ornaments, spyglass, etc. 
+
+Board (per week): Bed in a dormitory ($1), room in a boarding house ($10), town house ($20). 
+Food and Drink: Bread and broth ($0.10), bottle of gin or rum ($0.50), pie and wine ($0.50), fine meal ($1).
+Beasts: Mule or llama ($7) to horse ($100). mutt ($5) to hound ($50).
+
+Hirelings (cost per day, 1Draw hp and Ability Scores 10 unless noted).
+Lighter Boy ($s): STR 3Draw, lantern, club.
+Mercenary ($5): 2Draw hp, musket, sword.
+Expert ($10): Pistol, expertise in a specific area.
+
 --Roll once on each of the Starting Gear tables to determine your PC’s armor, weapons, tools, and equipment. If indicated, roll on the Spellbooks table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
 
 --See the Equipment List for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
