@@ -64,7 +64,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 **Names & Background**
 |	2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
-| ----------- | ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 |2	|	John	|	Mary	|	Silas	|
 |3	|	William	|	Anna	|	Arthur	|
 |4	|	James	|	Emma	|	Wyatt	|
