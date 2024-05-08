@@ -30,9 +30,88 @@ Players should always know and understand the high level consequences of their a
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
+## Principles for Wardens
+### Information
+- Provide useful information about the game world as the characters explore it.
+- Players do not need to draw cards to learn about their circumstances.
+- Be helpful and direct with your answers to their questions.
+- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+
+### Difficulty
+- Default to context and realism rather than numbers and mechanics.
+- If something the players want to do is sincerely impossible, no card drawn will allow them to do it.
+- Is what the player describes and how they leverage the situation sensible? Let it happen.
+- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+
+### Preparation
+- The game world is organic, malleable and random. It intuits and makes sharp turns.
+- Use random tables and generators to develop situations, not stories or plots.
+- NPCs remember what the PCs say and do, and how they affect the world.
+- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+
+### Narrative Focus
+- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
+- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
+- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+
+### Danger
+- The game world produces real risk of pain and death for the player characters.
+- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
+- Put traps in plain sight and let the players take time to figure out a solution.
+- Give players opportunities to solve problems and interact with the world.
+
+### Treasure
+- A Treasure is specific to the environment from where it is recovered. It tells a story.
+- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
+- Relics are not Treasure, though they are useful and interesting.
+- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+
+### Choice
+- Give players a solid choice to force outcomes when the situation lulls.
+- Use binary "so, A or B?" responses when their intentions are vague.
+- Work together using this conversational method to keep the game moving.
+- Ensure that the player character's actions leave their mark on the game world.
+
+### Die of Fate
+- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
+- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
+- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+
+## Principles for Players
+### Agency
+- Attributes and related saves do not define your character. They are tools.
+- Don't ask only what your character would do, ask what you would do, too.
+- Be creative with your intuition, items, and connections.
+
+### Teamwork
+- Seek consensus from the other players before barreling forward.
+- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+
+### Exploration
+- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
+- Take the Warden's description without suspicion, but don't shy away from seeking more information.
+- There is no single correct way forward.
+
+### Talking
+- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
+- You'll find that most people are interesting and will want to talk things through before getting violent.
+
+### Caution
+- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
+- Try to stack the odds in your favor and retreat when things seem unfavorable.
+
+### Planning
+- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
+- Do some research and ask around about your objectives.
+
+### Ambition
+- Set goals and use your meager means to take steps forward.
+- Expect nothing. Earn your reputation.
+- Keep things moving forward and play to see what happens.
+
 ## Character Creation
 
-**Name, Background, Traits**
+### Name, Background, Traits
 Before you start draw, choose your character's name and background. A PC's background influences their knowledge and skills. 
 
 Stat Generation:
@@ -48,14 +127,14 @@ There is a chance that a character gets a number higer than 18. If a character w
 
 Once each hand is drawn, note any pairs.
 
-**Ability Scores**
+### Ability Scores
 Player Characters (PCs) have just four attributes:
 Strength (STR), Dexterity (DEX), Grit (GRT), and Luck (Lck). When creating a PC, the player should draw 3 hands of 5 for each of their character’s ability scores, in order. They may then swap any two of the results. They also have "fourth" ability called Luck. This ability is a pool that fills and empties throughout play and can start filled if a character is lucky enough to have an ability score over 18.
 
-**Hit Protection**
+### Hit Protection
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
 
-**Inventory**
+### Inventory
 
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
 
@@ -72,12 +151,12 @@ All PCs begin with:
     A torch (one slot)
     10 dollars
 
-**Equipment**
-Unarmed Attack - d4 Damage (punch, kick, bite, etc...)
-Improvised Weapon ($1) - d4 Damage (pitchfork, whiskey bottle, etc...) 
-Hand Weapon ($3) - d6 Damage (Knife, Hand axe, Brass Knuckles, Club, Cane, Derringer, Revolver, etc...)
-Field Weapon ($15) - d8 Damage, Bulky (Carbine, Brace of Pistols, shotgun, fireman's axe, two-handed weapons)
-Heavy Gun ($15) - d10 Damage, Bulky, Cannot move and fire (Longrifle, elephant gun)
+### Equipment
+Unarmed Attack - 1 Damage (punch, kick, bite, etc...)
+Improvised Weapon ($1) - Draw 1 Damage (pitchfork, whiskey bottle, etc...) 
+Hand Weapon ($3) - Draw 2 Damage (Knife, Hand axe, Brass Knuckles, Club, Cane, Derringer, Revolver, Pistol, etc...)
+Field Weapon ($15) - Draw 3 Damage, Bulky (Carbine, Brace of Pistols, shotgun, fireman's axe, two-handed weapons)
+Heavy Gun ($15) - Draw 4 Damage, Bulky, Cannot move and fire (Longrifle, elephant gun)
 
 Tools ($1 each) - Crowbar, saw, glue, magnifying glass, manacles, animal trap, lockpicks, mirror, writing set, fishing pole, shovel, grappling hook, collapsible pole, 20ft rope, spikes, etc. 
 Luxuries ($100) - Clockwork items, thermometer, elaborate clothes, jewellery, ornaments, spyglass, etc. 
@@ -93,8 +172,7 @@ Expert ($10): Pistol, expertise in a specific area.
 
 If you would like something closer to traditional classes, refer to the list of Optional Gear Packages.
 
-
-**Names & Background**
+## Names & Background
 |	2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
 | :-----------: | :-----------: | :-----------: | :-----------: |
 |2	|	John	|	Mary	|	Silas	|
@@ -109,7 +187,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |11	|	Thomas	|	Alice	|	Jane	|
 |12	|	Edward	|	Grace	|	Quinn	|
 
-*Backgrounds*
+## Backgrounds
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
 |	Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs	|
 | :-----------: | :-----------: | :-----------: | :-----------: | :----:	|
@@ -127,10 +205,10 @@ Draw 1 card from the deck and compare it with the table below. Players are alway
 |Queen	|	Nun	|	Preacher	|	Boatman	|	Scout	|
 |King	|	Soldier	|	Undertaker	|	Barber	|	Blacksmith	
 
-*Traits*
+## Traits
 Separate the deck into its suits, draw once for each trait.
 
-Physique (Spades)
+### Physique (Spades)
 |   	|          	|    	|            	|
 | :---:	| :----------:	| :----:	| :------------:	|
 | 1 	| Athletic 	| 6  	| Scrawny    	|
@@ -139,7 +217,7 @@ Physique (Spades)
 | 4 	| Lanky    	| 9  	| Stout      	|
 | 5 	| Rugged   	| 10 	| Towering   	|
 
-Hair (Hearts)
+### Hair (Hearts)
 |   	|         	|    	|           	|
 |:---:	|:---------:	|:----:	|:-----------:	|
 | 1 	| Bald    	| 6  	| Long      	|
@@ -148,7 +226,7 @@ Hair (Hearts)
 | 4 	| Filthy  	| 9  	| Wavy      	|
 | 5 	| Frizzy  	| 10 	| Wispy     	|
 
-Face (Diamonds)
+### Face (Diamonds)
 |   	|           	|    	|          	|
 |:---:	|:-----------:	|:----:	|:----------:	|
 | 1 	| Bony      	| 6  	| Perfect  	|
@@ -157,7 +235,7 @@ Face (Diamonds)
 | 4 	| Elongated 	| 9  	| Square   	|
 | 5 	| Pale      	| 10 	| Sunken   	|
 
-Speech (Clubs)
+### Speech (Clubs)
 |   	|         	|    	|            	|
 |:---:	|:---------:	|:----:	|:------------:	|
 | 1 	| Blunt   	| 6  	| Gravelly   	|
@@ -166,7 +244,7 @@ Speech (Clubs)
 | 4 	| Droning 	| 9  	| Stuttering 	|
 | 5 	| Formal  	| 10 	| Whispery   	|
 
-Virtue (Spades)
+### Virtue (Spades)
 |   	|             	|    	|           	|
 |:---:	|:-------------:	|:----:	|:-----------:	|
 | 1 	| Ambitious   	| 6  	| Honorable 	|
@@ -175,7 +253,7 @@ Virtue (Spades)
 | 4 	| Disciplined 	| 9  	| Serene    	|
 | 5 	| Gregarious  	| 10 	| Tolerant  	|
 
-Vice (Hearts)
+### Vice (Hearts)
 |   	|            	|    	|          	|
 |:---:	|:------------:	|:----:	|:----------:	|
 | 1 	| Aggressive 	| 6  	| Lazy     	|
@@ -184,7 +262,7 @@ Vice (Hearts)
 | 4 	| Deceitful  	| 9  	| Vain     	|
 | 5 	| Greedy     	| 10 	| Vengeful 	|
 
-Reputation (Diamonds)
+### Reputation (Diamonds)
 |   	|             	|    	|           	|
 |:---:	|:-------------:	|:----:	|:-----------:	|
 | 1 	| Ambitious   	| 6  	| Loafer    	|
@@ -193,7 +271,7 @@ Reputation (Diamonds)
 | 4 	| Entertainer 	| 9  	| Respected 	|
 | 5 	| Honest      	| 10 	| Wise      	|
 
-Misfortunes (Clubs)
+### Misfortunes (Clubs)
 |   	|             	|    	|             	|
 |:---:	|:-------------:	|:----:	|:-------------:	|
 | 1 	| Abandoned   	| 6  	| Defrauded   	|
