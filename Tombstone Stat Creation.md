@@ -99,63 +99,73 @@ Draw 1 card from the deck and compare it with the table below. Players are alway
 Separate the deck into its suits, draw once for each trait.
 
 Physique (Spades)
-| ----------- | ----------- |
-|1 	Athletic	|	6 	Scrawny	|
-|2 	Brawny	|	7 	Short	|
-|3 	Flabby	|	8 	Statuesque	|
-|4 	Lanky	|	9 	Stout	|
-|5 	Rugged	|	10 	Towering	|
+|   	|          	|    	|            	|
+|---	|----------	|----	|------------	|
+| 1 	| Athletic 	| 6  	| Scrawny    	|
+| 2 	| Brawny   	| 7  	| Short      	|
+| 3 	| Flabby   	| 8  	| Statuesque 	|
+| 4 	| Lanky    	| 9  	| Stout      	|
+| 5 	| Rugged   	| 10 	| Towering   	|
 
 Hair (Hearts)
-| ----------- | ----------- |
-|1 	Bald	|	6 	Long	|
-|2 	Braided	|	7 	Luxurious	|
-|3 	Curly	|	8 	Oily	|
-|4 	Filthy	|	9 	Wavy	|
-|5 	Frizzy	|	10 	Wispy	|
+|   	|         	|    	|           	|
+|---	|---------	|----	|-----------	|
+| 1 	| Bald    	| 6  	| Long      	|
+| 2 	| Braided 	| 7  	| Luxurious 	|
+| 3 	| Curly   	| 8  	| Oily      	|
+| 4 	| Filthy  	| 9  	| Wavy      	|
+| 5 	| Frizzy  	| 10 	| Wispy     	|
 
 Face (Diamonds)
-| ----------- | ----------- |
-|1 	Bony	|	6 	Perfect	|
-|2 	Broken	|	7 	Rat-like	|
-|3 	Chiseled	|	8 	Sharp	|
-|4 	Elongated	|	9 	Square	|
-|5 	Pale	|	10 	Sunken	|
+|   	|           	|    	|          	|
+|---	|-----------	|----	|----------	|
+| 1 	| Bony      	| 6  	| Perfect  	|
+| 2 	| Broken    	| 7  	| Rat-like 	|
+| 3 	| Chiseled  	| 8  	| Sharp    	|
+| 4 	| Elongated 	| 9  	| Square   	|
+| 5 	| Pale      	| 10 	| Sunken   	|
 
 Speech (Clubs)
-|   	|         	|    	|            	|   	|
-|---	|---------	|----	|------------	|---	|
-| 1 	| Blunt   	| 6  	| Gravelly   	|   	|
-| 2 	| Booming 	| 7  	| Precise    	|   	|
-| 3 	| Cryptic 	| 8  	| Squeaky    	|   	|
-| 4 	| Droning 	| 9  	| Stuttering 	|   	|
-| 5 	| Formal  	| 10 	| Whispery   	|   	|
+|   	|         	|    	|            	|
+|---	|---------	|----	|------------	|
+| 1 	| Blunt   	| 6  	| Gravelly   	|
+| 2 	| Booming 	| 7  	| Precise    	|
+| 3 	| Cryptic 	| 8  	| Squeaky    	|
+| 4 	| Droning 	| 9  	| Stuttering 	|
+| 5 	| Formal  	| 10 	| Whispery   	|
 
 Virtue (Spades)
-| ----------- | ----------- |
-1 	Ambitious 	6 	Honorable
-2 	Cautious 	7 	Humble
-3 	Courageous 	8 	Merciful
-4 	Disciplined 	9 	Serene
-5 	Gregarious 	10 	Tolerant
+|   	|             	|    	|           	|
+|---	|-------------	|----	|-----------	|
+| 1 	| Ambitious   	| 6  	| Honorable 	|
+| 2 	| Cautious    	| 7  	| Humble    	|
+| 3 	| Courageous  	| 8  	| Merciful  	|
+| 4 	| Disciplined 	| 9  	| Serene    	|
+| 5 	| Gregarious  	| 10 	| Tolerant  	|
 
 Vice (Hearts)
-1 	Aggressive 	6 	Lazy
-2 	Bitter 	7 	Nervous
-3 	Craven 	8 	Rude
-4 	Deceitful 	9 	Vain
-5 	Greedy 	10 	Vengeful
+|   	|            	|    	|          	|
+|---	|------------	|----	|----------	|
+| 1 	| Aggressive 	| 6  	| Lazy     	|
+| 2 	| Bitter     	| 7  	| Nervous  	|
+| 3 	| Craven     	| 8  	| Rude     	|
+| 4 	| Deceitful  	| 9  	| Vain     	|
+| 5 	| Greedy     	| 10 	| Vengeful 	|
 
 Reputation (Diamonds)
-1 	Ambitious 	6 	Loafer
-2 	Boor 	7 	Oddball
-3 	Dangerous 	8 	Repulsive
-4 	Entertainer 	9 	Respected
-5 	Honest 	10 	Wise
+|   	|             	|    	|           	|
+|---	|-------------	|----	|-----------	|
+| 1 	| Ambitious   	| 6  	| Loafer    	|
+| 2 	| Boor        	| 7  	| Oddball   	|
+| 3 	| Dangerous   	| 8  	| Repulsive 	|
+| 4 	| Entertainer 	| 9  	| Respected 	|
+| 5 	| Honest      	| 10 	| Wise      	|
 
 Misfortunes (Clubs)
-1 	Abandoned 	6 	Defrauded
-2 	Addicted 	7 	Demoted
-3 	Blackmailed 	8 	Discredited
-4 	Condemned 	9 	Disowned
-5 	Cursed 	10 	Exiled
+|   	|             	|    	|             	|
+|---	|-------------	|----	|-------------	|
+| 1 	| Abandoned   	| 6  	| Defrauded   	|
+| 2 	| Addicted    	| 7  	| Demoted     	|
+| 3 	| Blackmailed 	| 8  	| Discredited 	|
+| 4 	| Condemned   	| 9  	| Disowned    	|
+| 5 	| Cursed      	| 10 	| Exiled      	|
