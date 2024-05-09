@@ -460,9 +460,9 @@ Players may spend 1 point of luck to make their attacks **enhanced** or add 1 Dr
   <summary>
 Expand For Example
  </summary>
- _A nearby bandit rushes Jesse, swinging its club at her, who has 5 HP. The club is a hand weapon that Draws 2 damage. Jesse's player makes a DEX save and draws a King, which is higher than her 12 Dexterity. The Bandit's club hits and Jesse draws 2 cards, an Ace and a 8. The 8 is tier 2. Jesse takes 2 damage and has 3 HP remaining.
+ _A nearby bandit rushes Jesse, swinging its club at her, who has 5 HP. The club is a hand weapon that Draws 2 damage. Jesse's player makes a DEX save and draws a King, which is higher than her 12 Dexterity. The Bandit's club hits and Jesse draws 2 cards, an Ace and a 8. The 8 is tier 2. Jesse takes 2 damage and has 3 HP remaining._
  
- Jesse quickly draws her Brace of pistols and fires at the bandit with the club. She flips a card for the Bandit's DEX save. She draws an 8, which is higher than the Bandit's Dexterity, her shots connect! Jesse then draws 3 for her damage and flips a 2, 4, and 9. She decides to cheat fate and plays a Queen from her hand. The bandit takes 2 damage to his HP and 1 to his STR. He makes a STR save, Jesse flips a 10, which is higer than the now modified 9 STR. The bandit suffers **critical damage** and is out of the fight._
+ _Jesse quickly draws her Brace of pistols and fires at the bandit with the club. She flips a card for the Bandit's DEX save. She draws an 8, which is higher than the Bandit's Dexterity, her shots connect! Jesse then draws 3 for her damage and flips a 2, 4, and 9. She decides to cheat fate and plays a Queen from her hand. The bandit takes 2 damage to his HP and 1 to his STR. He makes a STR save, Jesse flips a 10, which is higer than the now modified 9 STR. The bandit suffers **critical damage** and is out of the fight._
 </details>
 
 If the Black Joker is drawn at any point (DEX save or damage), the attack deals no damage, and misfortune has befallen the attacker.
