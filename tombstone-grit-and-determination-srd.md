@@ -325,7 +325,7 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | $2 Dollars        	|
 
 #### Preacher
-|                       	|
+| #### Preacher                   	|
 |-----------------------	|
 | Derringer             	|
 | Holy Water            	|
