@@ -335,6 +335,17 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | torch                 	|
 | $4 Dollars            	|
 
+#### Knight
+
+|                            |
+| -------------------------- |
+| Longsword (d10, bulky)     |
+| Chainmail (2 Armor, bulky) |
+| Helmet (+1 Armor)          |
+| Heraldic Cape              |
+| Manacles                   |
+| Fine Rope                  |
+
 | head1        | 
 |:-------------|
 | ok           |
