@@ -141,6 +141,7 @@ Strength (STR), Dexterity (DEX), Grit (GRT), and Luck (Lck). When creating a PC,
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
 
 ## Names & Background
+
 |	2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
 | :-----------: | :-----------: | :-----------: | :-----------: |
 |2	|	John	|	Mary	|	Silas	|
@@ -156,6 +157,7 @@ Draw 2 cards and use the above quality to determine starting Hit Protection, add
 |12	|	Edward	|	Grace	|	Quinn	|
 
 ## Backgrounds
+
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
 |	Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs	|
 | :-----------: | :-----------: | :-----------: | :-----------: | :----:	|
@@ -177,6 +179,7 @@ Draw 1 card from the deck and compare it with the table below. Players are alway
 Separate the deck into its suits, draw once for each trait.
 
 ### Physique (Spades)
+
 |   	|          	|    	|            	|
 | :---:	| :----------:	| :----:	| :------------:	|
 | 1 	| Athletic 	| 6  	| Scrawny    	|
@@ -186,6 +189,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Rugged   	| 10 	| Towering   	|
 
 ### Hair (Hearts)
+
 |   	|         	|    	|           	|
 |:---:	|:---------:	|:----:	|:-----------:	|
 | 1 	| Bald    	| 6  	| Long      	|
@@ -195,6 +199,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Frizzy  	| 10 	| Wispy     	|
 
 ### Face (Diamonds)
+
 |   	|           	|    	|          	|
 |:---:	|:-----------:	|:----:	|:----------:	|
 | 1 	| Bony      	| 6  	| Perfect  	|
@@ -204,6 +209,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Pale      	| 10 	| Sunken   	|
 
 ### Speech (Clubs)
+
 |   	|         	|    	|            	|
 |:---:	|:---------:	|:----:	|:------------:	|
 | 1 	| Blunt   	| 6  	| Gravelly   	|
@@ -213,6 +219,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Formal  	| 10 	| Whispery   	|
 
 ### Virtue (Spades)
+
 |   	|             	|    	|           	|
 |:---:	|:-------------:	|:----:	|:-----------:	|
 | 1 	| Ambitious   	| 6  	| Honorable 	|
@@ -222,6 +229,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Gregarious  	| 10 	| Tolerant  	|
 
 ### Vice (Hearts)
+
 |   	|            	|    	|          	|
 |:---:	|:------------:	|:----:	|:----------:	|
 | 1 	| Aggressive 	| 6  	| Lazy     	|
@@ -231,6 +239,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Greedy     	| 10 	| Vengeful 	|
 
 ### Reputation (Diamonds)
+
 |   	|             	|    	|           	|
 |:---:	|:-------------:	|:----:	|:-----------:	|
 | 1 	| Ambitious   	| 6  	| Loafer    	|
@@ -240,6 +249,7 @@ Separate the deck into its suits, draw once for each trait.
 | 5 	| Honest      	| 10 	| Wise      	|
 
 ### Misfortunes (Clubs)
+
 |   	|             	|    	|             	|
 |:---:	|:-------------:	|:----:	|:-------------:	|
 | 1 	| Abandoned   	| 6  	| Defrauded   	|
@@ -291,6 +301,7 @@ If you would like something closer to traditional classes, refer to the list of 
 While Tombstone doesn't have classes, the wild west holds a special visual appeal in the minds of players, and sometimes players just want to select a package and get to playing.
 
 #### Rancher
+
 |                    	|
 |--------------------	|
 | Pitchfork (Draw 1) 	|
@@ -303,6 +314,7 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | $3 Dollars         	|
 
 #### Gambler
+
 |                       	|
 |-----------------------	|
 | Pocket Knife (Draw 1) 	|
@@ -314,6 +326,7 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | $2 Dollars            	|
 
 #### Outlaw
+
 |                   	|
 |-------------------	|
 | Revolver (Draw 2) 	|
@@ -336,20 +349,14 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | torch                 	|
 | $4 Dollars            	|
 
-#### Knight
+#### Member of the Thunder Mesa Nation
 
-|                            |
-| -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
-
-| head1        | 
-|:-------------|
-| ok           |
-| out of stock |
-| ok           |
-| ok           |
+|                   	|
+|-------------------	|
+| Hand Axe (Draw 2) 	|
+| Bow Draw 2)       	|
+| Knife (Draw 1)    	|
+| Herbalism Kit     	|
+| 3 days' rations   	|
+| torch             	|
+|                   	|
