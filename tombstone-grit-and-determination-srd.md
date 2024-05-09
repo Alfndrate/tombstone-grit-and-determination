@@ -334,3 +334,10 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | 3 days' rations       	|
 | torch                 	|
 | $4 Dollars            	|
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
