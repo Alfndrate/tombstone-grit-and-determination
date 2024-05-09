@@ -134,44 +134,6 @@ Strength (STR), Dexterity (DEX), Grit (GRT), and Luck (Lck). When creating a PC,
 ### Hit Protection
 Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
 
-### Inventory
-
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
-
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden’s discretion.
-
-Bulky items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
-
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. Hirelings can also be paid to carry equipment.
-Starting Gear
-
-All PCs begin with:
-
-    Three days’ rations (one slot)
-    A torch (one slot)
-    10 dollars
-
-### Equipment
-Unarmed Attack - 1 Damage (punch, kick, bite, etc...)
-Improvised Weapon ($1) - Draw 1 Damage (pitchfork, whiskey bottle, etc...) 
-Hand Weapon ($3) - Draw 2 Damage (Knife, Hand axe, Brass Knuckles, Club, Cane, Derringer, Revolver, Pistol, etc...)
-Field Weapon ($15) - Draw 3 Damage, Bulky (Carbine, Brace of Pistols, shotgun, fireman's axe, two-handed weapons)
-Heavy Gun ($15) - Draw 4 Damage, Bulky, Cannot move and fire (Longrifle, elephant gun)
-
-Tools ($1 each) - Crowbar, saw, glue, magnifying glass, manacles, animal trap, lockpicks, mirror, writing set, fishing pole, shovel, grappling hook, collapsible pole, 20ft rope, spikes, etc. 
-Luxuries ($100) - Clockwork items, thermometer, elaborate clothes, jewellery, ornaments, spyglass, etc. 
-
-Board (per week): Bed in a dormitory ($1), room in a boarding house ($10), town house ($20). 
-Food and Drink: Bread and broth ($0.10), bottle of gin or rum ($0.50), pie and wine ($0.50), fine meal ($1).
-Beasts: Mule or llama ($7) to horse ($100). mutt ($5) to hound ($50).
-
-Hirelings (cost per day, 1Draw hp and Ability Scores 10 unless noted).
-Lighter Boy ($s): STR 3Draw, lantern, club.
-Mercenary ($5): 2Draw hp, musket, sword.
-Expert ($10): Pistol, expertise in a specific area.
-
-If you would like something closer to traditional classes, refer to the list of Optional Gear Packages.
-
 ## Names & Background
 |	2d6	|	Male Names	|	Female Names	| Rootin' Tootin' Names|
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -279,3 +241,90 @@ Separate the deck into its suits, draw once for each trait.
 | 3 	| Blackmailed 	| 8  	| Discredited 	|
 | 4 	| Condemned   	| 9  	| Disowned    	|
 | 5 	| Cursed      	| 10 	| Exiled      	|
+
+### Inventory
+
+Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
+
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden’s discretion.
+
+Bulky items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. Hirelings can also be paid to carry equipment.
+Starting Gear
+
+All PCs begin with:
+
+    Three days’ rations (one slot)
+    A torch (one slot)
+    10 dollars
+
+### Equipment
+Unarmed Attack - 1 Damage (punch, kick, bite, etc...)
+Improvised Weapon ($1) - Draw 1 Damage (pitchfork, whiskey bottle, etc...) 
+Hand Weapon ($3) - Draw 2 Damage (Knife, Hand axe, Brass Knuckles, Club, Cane, Derringer, Revolver, Pistol, etc...)
+Field Weapon ($15) - Draw 3 Damage, Bulky (Carbine, Brace of Pistols, shotgun, fireman's axe, two-handed weapons)
+Heavy Gun ($15) - Draw 4 Damage, Bulky, Cannot move and fire (Longrifle, elephant gun)
+
+Tools ($1 each) - Crowbar, saw, glue, magnifying glass, manacles, animal trap, lockpicks, mirror, writing set, fishing pole, shovel, grappling hook, collapsible pole, 20ft rope, spikes, etc. 
+Luxuries ($100) - Clockwork items, thermometer, elaborate clothes, jewellery, ornaments, spyglass, etc. 
+
+Board (per week): Bed in a dormitory ($1), room in a boarding house ($10), town house ($20). 
+Food and Drink: Bread and broth ($0.10), bottle of gin or rum ($0.50), pie and wine ($0.50), fine meal ($1).
+Beasts: Mule or llama ($7) to horse ($100). mutt ($5) to hound ($50).
+
+Hirelings (cost per day, 1Draw hp and Ability Scores 10 unless noted).
+Lighter Boy ($s): STR 3Draw, lantern, club.
+Mercenary ($5): 2Draw hp, musket, sword.
+Expert ($10): Pistol, expertise in a specific area.
+
+If you would like something closer to traditional classes, refer to the list of Optional Gear Packages.
+
+## Optional Archetypes
+
+While Tombstone doesn't have classes, the wild west holds a special visual appeal in the minds of players, and sometimes players just want to select a package and get to playing.
+
+#### Rancher
+|                    	|
+|--------------------	|
+| Pitchfork (Draw 1) 	|
+| Revolver (Draw 2)  	|
+| Fishing Pole       	|
+| 50ft Baling Twine  	|
+| 50ft Rope          	|
+| 3 days' rations		|
+| torch					|
+| $3 Dollars         	|
+
+#### Gambler
+|                       	|
+|-----------------------	|
+| Pocket Knife (Draw 1) 	|
+| Derringer (Draw 2)    	|
+| Deck of Cards         	|
+| Cane                  	|
+| 3 days' rations       	|
+| torch                 	|
+| $2 Dollars            	|
+
+#### Outlaw
+|                   	|
+|-------------------	|
+| Revolver (Draw 2) 	|
+| Knife (Draw 2)    	|
+| manacles          	|
+| 50ft Rope         	|
+| 3 days' rations   	|
+| torch             	|
+| $2 Dollars        	|
+
+#### Preacher
+|                       	|
+|-----------------------	|
+| Derringer             	|
+| Holy Water            	|
+| Bible                 	|
+| Traveling Liturgy Kit 	|
+| 3 days' rations       	|
+| torch                 	|
+| $4 Dollars            	|
