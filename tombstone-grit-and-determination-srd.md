@@ -325,7 +325,7 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | $2 Dollars        	|
 
 #### Preacher
-| #### Preacher                   	|
+| Preacher              |
 |-----------------------	|
 | Derringer             	|
 | Holy Water            	|
@@ -335,9 +335,9 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | torch                 	|
 | $4 Dollars            	|
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | 
+|:-------------|
+| ok           |
+| out of stock |
+| ok           |
+| ok           |
