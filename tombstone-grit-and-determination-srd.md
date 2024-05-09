@@ -157,8 +157,8 @@ Draw 2 cards and use the above quality to determine starting Hit Protection (HP)
 |12	|	Edward	|	Grace	|	Quinn	|
 
 ## Backgrounds
-
 Draw 1 card from the deck and compare it with the table below. Players are always able to come up with their own backgrounds as the default.
+
 |	Number	|	Spades	|	Hearts	|	Diamonds	|	Clubs	|
 | :-----------: | :-----------: | :-----------: | :-----------: | :----:	|
 |1	|	Actor	|	Government Agent	|	Author	|	Painter	|
@@ -362,6 +362,19 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 |                   	|
 
 ## Rules
+### The Deck of fate
+Each player needs a standard 52 card deck of playing cards with 2 jokers. The Ranger does not use a deck, but draws a card from the player's deck for Saves, Attacks, and Damage.
+
+At the beginning of a session, every player shuffles their deck several times and offers it to the Ranger for a cut. Then each player draws 5 cards. They may use these cards in play to cheat the hand that fate has dealt them. Players can only draw a new hand of 5 after a full night's rest or if their deck is empty.
+
+To cheat fate, a player may place 1 card in their hand on top of the card drawn. This can turn a missed attack or a failed save into a success. Players can cheat fate on damage they deal. When damage is cheated, the player may add 1 card from their hand to the damage drawn and take the highest damage available.
+
+#### The Two jokers
+Each deck has both a **Black Joker** and a **Red Joker**. These two cards represent the random nature of fate. 
+
+The Black Joker is always a failure and may not be cheated away. If flipped for damage, the attack deals no damage, and the attacker suffers misfortune. A player may use the Black Joker if it is in their hand like any other card. This is the one time where it can be a benefit to players.
+The Red Joker is always a success and may not be cheated away. If flipped for damage, the attack deals 4 damage and the defender must make a STR save or suffer **critical damage**.
+
 ### Ability scores
 Each of the four **ability scores** are used in different circumstances throughout play (see **saves** below).
 
@@ -441,11 +454,15 @@ Expand For Example
 ### Attacks & Damage
 The defender makes a DEX save. If it is successful, the attack is avoided. If it fails, the attack hits. The attacker draws a number of cards from the deck and deals damage equal to the highest tier of card drawn. 
 
+Players may spend 1 point of luck to make their attacks **enhanced** or add 1 Draw to any damage dealt.
+
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
- _A nearby bandit rushes Jesse, swinging its club at her, who has 5 HP. The club is a hand weapon that Draws 2 damage. Jesse's player makes a DEX save and draws a King, which is higher than her 12 Dexterity. The Bandit's club hits and Jesse draws 2 cards, an Ace and a 8. The 8 is tier 2. Jesse takes 2 damage and has 3 HP remaining._
+ _A nearby bandit rushes Jesse, swinging its club at her, who has 5 HP. The club is a hand weapon that Draws 2 damage. Jesse's player makes a DEX save and draws a King, which is higher than her 12 Dexterity. The Bandit's club hits and Jesse draws 2 cards, an Ace and a 8. The 8 is tier 2. Jesse takes 2 damage and has 3 HP remaining.
+ 
+ Jesse quickly draws her Brace of pistols and fires at the bandit with the club. She flips a card for the Bandit's DEX save. She draws an 8, which is higher than the Bandit's Dexterity, her shots connect! Jesse then draws 3 for her damage and flips a 2, 4, and 9. She decides to cheat fate and plays a Queen from her hand. The bandit takes 2 damage to his HP and 1 to his STR. He makes a STR save, Jesse flips a 10, which is higer than the now modified 9 STR. The bandit suffers **critical damage** and is out of the fight._
 </details>
 
 If the Black Joker is drawn at any point (DEX save or damage), the attack deals no damage, and misfortune has befallen the attacker.
