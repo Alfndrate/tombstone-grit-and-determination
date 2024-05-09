@@ -500,3 +500,21 @@ Attacks against individuals by a posse are **enhanced** and increase the final d
 
 ### Turning Tail
 Running away from a gunfight always requires a successful DEX save, as well as a safe destination. This is why groups of bandits and outlaws may have several safe houses or hideouts to retreat to when a plan goes poorly.
+
+### Scars
+When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Draw 1 card and look up the result on the table below:
+
+|      |                                                              |
+|------ |---|
+| 1    | Lasting Scar: Draw 1 &#124; A-3: Neck, 4-6: Hands, 7-9: Eye, 10-12: Chest, 13: Legs, Joker: Ear. Draw 1. Add the tier to your max HP |
+| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Draw 3. If the total is higher than your max HP, take the new result. |
+| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, Draw 1. Add that amount to your max HP. |
+| 4    | Broken Limb: Draw 1 &#124; A-5: Leg, 6-8: Arm, 9-11: Rib, 12-13: Skull. Once mended, Draw 3. If the total is higher than your max HP, take the new result. |
+| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, Draw 3. If the total is higher than your max HP, take the new result. |
+| 6    | Reorienting Head Wound: Draw 1 &#124; A-5: STR, 6-10: DEX, 11-Jokers: GRT. Draw 5. If the total is higher than your current ability score, take the new result. |
+| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, Draw 5. If the total is higher than your max DEX, take the new result. |
+| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a GRT save. If you pass, increase your max GRT by 1 Draw. |
+| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Draw 5. If the total is higher than your max GRT, take the new result. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a GRT save. If you pass, increase your max GRT by 1 Draw. |
+| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, Draw 2. Take the new result as your max HP. |
+| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, Draw 5. If the total is higher than your max HP, take the new result. |
