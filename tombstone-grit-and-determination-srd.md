@@ -381,7 +381,7 @@ A save is a roll to avoid misfortune in the badlands and comes from taking risks
   <summary>
 Expand For Example
  </summary>
- _Jesse encounters a group of heavily-armed bandits standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She draws 1 card, a Nine of Spades, a success!_
+ _Jesse encounters a group of heavily-armed bandits standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 12 DEX makes sneaking past the guards the best option. She draws 1 card, a Nine of Spades, a success!_
 </details>
 
 ### Healing
@@ -410,3 +410,76 @@ Enemies must pass a GRT save to avoid fleeing when they take their first casualt
 
 ### Hirelings
 PCs can hire **Hirelings** to aid them in their expedition. To create a hireling draw 3 for each ability score, then draw 1 for HP and give them a hand weapon (Draw 2). You use the **Backgrounds & Traits** section to further flesh them out. Hirelings cost between 1 and 3 dollars per week, or a share of treasure the group obtains.
+
+### Wealth & Treasure
+MOst people in Thunder Mesa County use the dollar, backed by the United States of America. The dollar is equal 2 silver half dollars, 4 quarters, 10 dimes, 20 nickels, and 100 cents. Outside of the currency system, gold and silver can be found in veins of the caves of the Big Thunder Mining Co.
+
+Treasure such as mined gold, safes of bank notes, relics dug up or stolen are highly valuable, usually bulky, and almost always useless beyond its value.
+
+Towns, cities, or trading posts along a railroad barter and trade for this treasure, though fencing stolen goods may cause more problems than the wealth fixes.
+
+## Combat
+
+### Rounds
+The game usually plays without strict time tracking. In a fight or any instance where time is of the essence, use Turns to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and during a round all characters (PC and NPC) get a turn.
+
+### Initiative
+Before each round, one player (decided by the group) makes a DEX save. If it's a success then the party acts first. If it fails, then the enemies act first. If the Black Joker is drawn, the party fails and the Ranger is encouraged to add a complication to the combat encounter (e.g. a powder keg blows up, a horse runs wild, etc...)
+
+### Actions 
+During a turn, a character may move up to 25 feet and take an action. This can be firing a gun, swinging a weapon, moving again, take a swig of whiskey, or some other action that makes sense given the time constraints.
+
+When it is the party's turn to act, the players may take their turn in any order.
+
+<details markdown="block">
+  <summary>
+Expand For Example
+ </summary>
+ _Jesse has accidentally stumbled onto the camp of the One Eye gang. In order to make a move before the bandits, she makes a DEX save. She fails, and the Bandits gets to attack first._
+</details>
+
+### Attacks & Damage
+The defender makes a DEX save. If it is successful, the attack is avoided. If it fails, the attack hits. The attacker draws a number of cards from the deck and deals damage equal to the highest tier of card drawn. 
+
+<details markdown="block">
+  <summary>
+Expand For Example
+ </summary>
+ _A nearby bandit rushes Jesse, swinging its club at her, who has 5 HP. The club is a hand weapon that Draws 2 damage. Jesse's player makes a DEX save and draws a King, which is higher than her 12 Dexterity. The Bandit's club hits and Jesse draws 2 cards, an Ace and a 8. The 8 is tier 2. Jesse takes 2 damage and has 3 HP remaining._
+</details>
+
+If the Black Joker is drawn at any point (DEX save or damage), the attack deals no damage, and misfortune has befallen the attacker.
+
+### Multiple Attackers
+If multiple attackers target the same PC, make 1 DEX save, if the save fails, add 1 card drawn for each addtional attack. In addition, the final damage is increased by a total of 1.
+
+### Attack Modifiers
+If fighting from an advantagous position (such as against a helpless foe, or through a well coordinated attack), the attack is **enhanced**, forcing the defender to draw 1 extra card for the DEX save and taking the worst result.
+
+If fighting from a poor position (such as in the dark, or while riding on a galloping horse), the attack is considered **impaired**, forcing the defender to draw 1 extra card from the DEX save and taking the best result.
+
+### Critical Damage
+Damage that reduces a target's HP below 0 carries over to STR, reducing it until all damage has been dealt. They must make a STR save or take **critical damage**.
+
+If the Red Joker is drawn for damage, regardless of how much HP the target has, they must make a STR save as Lady Luck has blessed the attack with supernatural panache.
+
+Any PC that fails the STR save suffers critical damage and is out of the fight. If their wounds are treated and they're able to rest, they will recover. If left untreated, they die within the hour.
+
+### Ability Score loss
+If a PCs STR is reduced to 0, they die and their story ends. If their DEX is reduced to 0, they are unable to move. If their GRT is reduced to 0, they are too cowardly to continue adventuring.
+Complete DEX and GRT loss renders the character unable to act until the are restored through extended and most likely costly rest.
+
+### Scars
+When damage to a PC reduces their HP to exactly 0, they may be changed by the hand fate has dealt them and changed forever. See the [**Scars**] table for more.
+
+### Unconscious & Death
+When a character dies, the player is free to create a new character or take control of a hireling. The immediately join the party in order to reduce downtime. If the player takes control of a hireling, they immediately Draw 2 for each stat and Draw 1 for their HP bringing them closer to the rest of the party.
+
+### Posses
+Large groups of similar fighters, like bandits, outlaws, lawmen are treated as a single **posse**. When a posse takes critical damage, it is routed or otherwise weakend. When it reaches 0 STR, it is destroyed.
+
+Attacks against a posse by individuals are **impaired**
+Attacks against individuals by a posse are **enhanced** and increase the final damage by 3 (this overrides the additional 1 damage from multiple attackers, as a posse is already a group of multiple attackers just more organized).
+
+### Turning Tail
+Running away from a gunfight always requires a successful DEX save, as well as a safe destination. This is why groups of bandits and outlaws may have several safe houses or hideouts to retreat to when a plan goes poorly.
