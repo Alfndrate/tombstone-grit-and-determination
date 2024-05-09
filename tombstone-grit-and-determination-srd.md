@@ -122,14 +122,12 @@ Before you start draw, choose your character's name and background. A PC's backg
 
 Stat Generation:
 Players will shuffle a standard 52 card deck including the red and black jokers.
-Players will generate 3 hands of 5 cards and add up the quality of cards drawn, and assign them to your stats in order.
+Players will generate 3 hands of 5 cards and 1 hand of 3 and add up the quality of cards drawn, and assign them to your stats in order.
 Black Joker: 0
 Ace through 5: 1
 6 through 10: 2
 Jack through King: 3
 Red Joker: 4
-
-There is a chance that a character gets a number higer than 18. If a character would have an ability score over 18 that ability score is 18, and any remaining points are transferred to the character's Luck ability.
 
 Once each hand is drawn, note any pairs.
 
