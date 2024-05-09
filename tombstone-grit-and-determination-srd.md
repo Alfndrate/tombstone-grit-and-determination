@@ -137,8 +137,8 @@ Once each hand is drawn, note any pairs.
 Player Characters (PCs) have just four attributes:
 Strength (STR), Dexterity (DEX), Grit (GRT), and Luck (Lck). When creating a PC, the player should draw 3 hands of 5 for each of their character’s ability scores, in order. They may then swap any two of the results. They also have "fourth" ability called Luck. This ability is a pool that fills and empties throughout play and can start filled if a character is lucky enough to have an ability score over 18.
 
-### Hit Protection
-Draw 2 cards and use the above quality to determine starting Hit Protection, add the number of pairs to starting Hit Protection.
+### Hit Protection (HP)
+Draw 2 cards and use the above quality to determine starting Hit Protection (HP), add the number of pairs to starting Hit Protection.
 
 ## Names & Background
 
@@ -360,3 +360,53 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | 3 days' rations   	|
 | torch             	|
 |                   	|
+
+## Rules
+### Ability scores
+Each of the four **ability scores** are used in different circumstances throughout play (see **saves** below).
+
+
+**Strength (STR)**: Used for saves that test physicality, stopping a lassoed bull, throwing a chunk of dynamite, resiting rot gut at the local tavern, etc...
+
+**Dexterity (DEX)**: Used for saves that test agility, speed, and reflexes like jumping aboard a train, firing a gun, balancing, etc...
+
+**Grit (GRT)**: Used for saves that test determination in faces of adversity and getting your way, like trying to intimidate, persuade, or deceive. Also used to overcome fear, terror, etc...
+
+**Luck (LCK)**: Used as a resource to effect draws and to cheat the hand of fate dealt to you.
+
+### Saves
+A save is a roll to avoid misfortune in the badlands and comes from taking risks. PCs draw a card for an appropriate ability score. If they draw a card equal to or under that ability score, they pass, otherwise they fail. A Red Joker is always a success, and a Black Joker is always a failure. Luck cannot be spent to avoid a Black Joker.
+
+<details markdown="block">
+  <summary>
+Expand For Example
+ </summary>
+ _Jesse encounters a group of heavily-armed bandits standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She draws 1 card, a Nine of Spades, a success!_
+</details>
+
+### Healing
+Resting for a few minutes and having a drink of water or a bite of food restores lost HP, but leaves the party exposed to danger. Ability score loss (see **Critical Damage**) can usually be restored with a week's rest in a dry bed, a bath, and some homecooked food (i.e. not rations). Extensive wounds may require paying a physician and extended time resting.
+
+### Exhaustion
+A PC that is **exhausted** of crucial resources (such as food and water) is unable to recover HP or Ability scores. Anyone exhausted of resources for more than a day adds **Fatigue** to their inventory for each day they've been without necessary supplies. Each Fatigue takes up one slot in a PCs inventory and lasts until they are able to recuperate (such as a good night's rest and a meal in a safehouse). PCs can also gain Fatigue through the fiction.
+
+### Armor 
+? Do we even have armor in the old west? Maybe a good leather duster provides 1 armor and takes up 1 slot?
+
+### Reactions
+When PCs encounter an NPC whose reaction to the party is not obvious, the Ranger may make a player Draw and consult the following table:
+
+| Number      	| Spades  	| Hearts  	| Diamonds 	| Clubs   	|
+|:-------------:	|:---------:	|:---------:	|:----------:	|:---------:	|
+| Black Joker 	| Hostile 	| Hostile 	| Hostile  	| Hostile 	|
+| A - 5       	| Wary    	| Curious 	| Kind     	| Helpful 	|
+| 6 - 9       	| Curious 	| Kind    	| Helpful  	| Wary    	|
+| 10 - 12     	| Kind    	| Helpful 	| Wary     	| Curious 	|
+| 13          	| Helpful 	| Wary    	| Curious  	| Kind    	|
+| Red Joker   	| Ally    	| Ally    	| Ally     	| Ally    	|
+
+### Morale
+Enemies must pass a GRT save to avoid fleeing when they take their first casualty and again when they lose half their number. Groups (e.g. bandits and lawmen) may use their leader's GRT in place of their own. Solo enemies must save when they're reduced to 0 HP. PCs never have to make morale saves.
+
+### Hirelings
+PCs can hire **Hirelings** to aid them in their expedition. To create a hireling draw 3 for each ability score, then draw 1 for HP and give them a hand weapon (Draw 2). You use the **Backgrounds & Traits** section to further flesh them out. Hirelings cost between 1 and 3 dollars per week, or a share of treasure the group obtains.
