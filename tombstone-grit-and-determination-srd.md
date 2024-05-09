@@ -166,7 +166,7 @@ Draw 1 card from the deck and compare it with the table below. Players are alway
 |3	|	Orpha	|	Cook	|	Cattle Driver	|	Stagecoach driver	|
 |4	|	Farmer	|	Fisherman	|	Herder	|	Homesteader	|
 |5	|	Housekeeper	|	Hunter	|	Lumberjack	|	School teacher	|
-|6	|	Miner	| Rancher	| Prospector	| Butler	| Horse trainer	|
+|6	|	Miner	| Rancher	| Prospector	| Butler	|
 |7	|	Bartender	|	Pianist	|	Bounty Hunter	|	Dancer	|
 |8	|	Gambler	|	Deserter	|	Cat Burgler	|	Outlaw	|
 |9	|	Pickpocket	|	Politician	|	Charlatan	|	Banker	|
