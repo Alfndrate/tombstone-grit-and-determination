@@ -193,11 +193,13 @@ Separate the deck into its suits, draw once for each trait.
 
 |   	|           	|    	|          	|
 |:---:	|:-----------:	|:----:	|:----------:	|
-| 1 	| Bony      	| 6  	| Perfect  	|
-| 2 	| Broken    	| 7  	| Rat-like 	|
-| 3 	| Chiseled  	| 8  	| Sharp    	|
-| 4 	| Elongated 	| 9  	| Square   	|
-| 5 	| Pale      	| 10 	| Sunken   	|
+| 1 	| Bony      	| 8 	| Sharp  	|
+| 2 	| Broken    	| 9  	| Square 	|
+| 3 	| Chiseled  	| 10 	| Sunke    	|
+| 4 	| Elongated 	| 11 	| Soft   	|
+| 5 	| Pale      	| 12 	| Round   	|
+| 6		| Perfect		| 13	| Meaty		|
+| 7		| Rat-like		| |	|
 
 ### Speech (Clubs)
 
