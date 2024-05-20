@@ -6,7 +6,7 @@ nav_order: 2
 
 # Tombstone - Grit & Determination System Reference Document (v.0.1)
 
-**Tombstone 0 Grit & Determination** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+**Tombstone - Grit & Determination** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 
 **Tombstone - Grit & Determination** is an adventure game for one referee (the **Dealer**) and at least one other player.
