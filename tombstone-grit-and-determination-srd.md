@@ -173,21 +173,25 @@ Separate the deck into its suits, draw once for each trait.
 
 |   	|          	|    	|            	|
 | :---:	| :----------:	| :----:	| :------------:	|
-| 1 	| Athletic 	| 6  	| Scrawny    	|
-| 2 	| Brawny   	| 7  	| Short      	|
-| 3 	| Flabby   	| 8  	| Statuesque 	|
-| 4 	| Lanky    	| 9  	| Stout      	|
-| 5 	| Rugged   	| 10 	| Towering   	|
+| 1 	| Athletic 	| 8 	| Statuesque   	|
+| 2 	| Brawny   	| 9  	| Stout		 	|
+| 3 	| Flabby   	| 10  	| Towering  	|
+| 4 	| Lanky    	| 11 	| Angular   	|
+| 5 	| Rugged   	| 12 	| Voluptous    	|
+| 6		| Scrawny	| 13	| Robust 		|
+| 7		| Short 	|	|	|
 
 ### Hair (Hearts)
 
 |   	|         	|    	|           	|
 |:---:	|:---------:	|:----:	|:-----------:	|
-| 1 	| Bald    	| 6  	| Long      	|
-| 2 	| Braided 	| 7  	| Luxurious 	|
-| 3 	| Curly   	| 8  	| Oily      	|
-| 4 	| Filthy  	| 9  	| Wavy      	|
-| 5 	| Frizzy  	| 10 	| Wispy     	|
+| 1 	| Bald    	| 8  	| Oily      	|
+| 2 	| Braided 	| 9  	| Wavy 			|
+| 3 	| Curly   	| 10  	| Wispy      	|
+| 4 	| Filthy  	| 11 	| Coiled     	|
+| 5 	| Frizzy  	| 12 	| Buzzed 	  	|
+| 6 	| Long 		| 13 	| Gelled 		|
+| 7 	|Luxurious 	| | |
 
 ### Face (Diamonds)
 
@@ -205,51 +209,61 @@ Separate the deck into its suits, draw once for each trait.
 
 |   	|         	|    	|            	|
 |:---:	|:---------:	|:----:	|:------------:	|
-| 1 	| Blunt   	| 6  	| Gravelly   	|
-| 2 	| Booming 	| 7  	| Precise    	|
-| 3 	| Cryptic 	| 8  	| Squeaky    	|
-| 4 	| Droning 	| 9  	| Stuttering 	|
-| 5 	| Formal  	| 10 	| Whispery   	|
+| 1 	| Blunt   	| 8  	| Squeaky   	|
+| 2 	| Booming 	| 9  	| Stuttering   	|
+| 3 	| Cryptic 	| 10  	| Whispery    	|
+| 4 	| Droning 	| 11 	| Soft		 	|
+| 5 	| Formal  	| 12 	| Hesitant   	|
+| 6 	| Gravelly 	| 13 	| Long Pauses 	|
+| 7 	| Precise 	| | |
 
 ### Virtue (Spades)
 
 |   	|             	|    	|           	|
 |:---:	|:-------------:	|:----:	|:-----------:	|
-| 1 	| Ambitious   	| 6  	| Honorable 	|
-| 2 	| Cautious    	| 7  	| Humble    	|
-| 3 	| Courageous  	| 8  	| Merciful  	|
-| 4 	| Disciplined 	| 9  	| Serene    	|
-| 5 	| Gregarious  	| 10 	| Tolerant  	|
+| 1 	| Ambitious   	| 8  	| Merciful 		|
+| 2 	| Cautious    	| 9  	| Serene    	|
+| 3 	| Courageous  	| 10  	| Tolerant  	|
+| 4 	| Disciplined 	| 11 	| Caring    	|
+| 5 	| Gregarious  	| 12 	| Reliable  	|
+| 6 	| Honorable 	| 13 	| Loyal 		|
+| 7 	| Humble 		| | |
 
 ### Vice (Hearts)
 
 |   	|            	|    	|          	|
 |:---:	|:------------:	|:----:	|:----------:	|
-| 1 	| Aggressive 	| 6  	| Lazy     	|
-| 2 	| Bitter     	| 7  	| Nervous  	|
-| 3 	| Craven     	| 8  	| Rude     	|
-| 4 	| Deceitful  	| 9  	| Vain     	|
-| 5 	| Greedy     	| 10 	| Vengeful 	|
+| 1 	| Aggressive 	| 8  	| Rude     		|
+| 2 	| Bitter     	| 9  	| Vain  		|
+| 3 	| Craven     	| 10  	| Vengeful 		|
+| 4 	| Deceitful  	| 11 	| Egotistical 	|
+| 5 	| Greedy     	| 12 	| Impatiant  	|
+| 6 	| Lazy 			| 13 	| Envious 		|
+| 7 	| Nervous 		| | |
 
 ### Reputation (Diamonds)
 
 |   	|             	|    	|           	|
 |:---:	|:-------------:	|:----:	|:-----------:	|
-| 1 	| Ambitious   	| 6  	| Loafer    	|
-| 2 	| Boor        	| 7  	| Oddball   	|
-| 3 	| Dangerous   	| 8  	| Repulsive 	|
-| 4 	| Entertainer 	| 9  	| Respected 	|
-| 5 	| Honest      	| 10 	| Wise      	|
+| 1 	| Ambitious   	| 8  	| Repulsive    	|
+| 2 	| Boor        	| 9  	| Respected  	|
+| 3 	| Dangerous   	| 10  	| Wise 		 	|
+| 4 	| Entertainer 	| 11 	| Caring 	 	|
+| 5 	| Honest      	| 12 	| Modest      	|
+| 6 	| Loafer 		| 13 	| Drunkard 		|
+| 7 	| Oddball 		| | |
 
 ### Misfortunes (Clubs)
 
 |   	|             	|    	|             	|
 |:---:	|:-------------:	|:----:	|:-------------:	|
-| 1 	| Abandoned   	| 6  	| Defrauded   	|
-| 2 	| Addicted    	| 7  	| Demoted     	|
-| 3 	| Blackmailed 	| 8  	| Discredited 	|
-| 4 	| Condemned   	| 9  	| Disowned    	|
-| 5 	| Cursed      	| 10 	| Exiled      	|
+| 1 	| Abandoned   	| 8  	| Discredited  	|
+| 2 	| Addicted    	| 9  	| Disowned	 	|
+| 3 	| Blackmailed 	| 10  	| Exiled		|
+| 4 	| Condemned   	| 11  	| Indebted    	|
+| 5 	| Cursed      	| 112 	| Disillusioned	|
+| 6 	| Defrauded 	| 13 	| Framed		|
+| 7 	| Demoted 		| | |
 
 ### Inventory
 
