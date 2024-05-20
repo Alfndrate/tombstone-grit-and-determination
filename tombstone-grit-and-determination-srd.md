@@ -395,31 +395,36 @@ Each deck has both a **Black Joker** and a **Red Joker**. These two cards repres
 When flipped from the deck, the Black Joker is always a failure and may not be cheated away. If flipped for damage, the attack deals no damage, and the attacker suffers misfortune. A player may use the Black Joker if it is in their hand to to *force* the Dealer to reflip a card. The second result must be used, and cannot be cheated even by another Black Joker. The Black Joker cannot effect the Red Joker.
 When flipped from the deck, the Red Joker is always a success and of the appropriate suit. If flipped for damage, the attack deals Tier 3 damage plus an additional flip from the deck. If the Black Joker is flipped for this addtional damage, the attack still deals Tier 3 damage.
 
+#### Contested actions
+Often you will be asked to flip a card. This can be in regards to making an attack, dodging an attack, making a save. A contested action is *usually* against the dealer, but sometimes it may be against a specific target number. That number is generally 9.
+
 ### Ability scores
-Each of the four **ability scores** are used in different circumstances throughout play (see **Contested Actions** below).
+Each of the four **ability scores** are used in different circumstances throughout play (see **Saves** below).
 
 
-**Strength (STR)**: Used for contested actions that test physicality, stopping a lassoed bull, throwing a chunk of dynamite, resiting rot gut at the local tavern, etc...
+**Strength (STR)**: Used for contested actions and saves that test physicality, stopping a lassoed bull, throwing a chunk of dynamite, etc...
 
-**Dexterity (DEX)**: Used for contested actions that test agility, speed, and reflexes like jumping aboard a train, firing a gun, balancing, etc...
+**Dexterity (DEX)**: Used for contested actions and saves that test agility, speed, and reflexes like jumping aboard a train, firing a gun, balancing, etc...
 
-**Will (WIL)**: Used for contested actions that test determination in faces of adversity and getting your way, like trying to intimidate, persuade, or deceive. Also used to overcome fear, terror, etc...
+**Will (WIL)**: Used for contested actions and saves that test determination in faces of adversity and getting your way, like trying to intimidate, persuade, or deceive. Also used to overcome fear, terror, etc...
 
-**Grit (GRT)**: Used for contested actions that 
+**Grit (GRT)**: Used for contested actions and saves that that test your ability to shrug off the dangers of the badlands. Dealing with snake poison, resiting rot gut at the local tavern, etc...
 
-### Contested Actions
-A contested action is a flip to avoid misfortune in the badlands and comes from taking risks. PCs draw a card from the deck for an appropriate ability score. The Dealer draws a card from the deck and both compare the results. As these are often actions outside of combat, the Dealer should consider the level of risk involved when determining modifiers to add to their contested action.
+### Saves
+A save is a flip to avoid misfortune in the badlands and comes from taking risks. PCs draw a card from the deck for an appropriate ability score. The Dealer considers the risk level and adjusts the target number necessary for the save to succeed.
 
-Low Risk: +0
-Moderate Risk: +1
-High Risk: +2
-Deadly Risk: +3
+The standard target number for a save is 9.
+
+Low Risk: 10
+Moderate Risk: 11
+High Risk: 12
+Deadly Risk: 13
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
- _Jesse encounters a group of heavily-armed bandits standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 4 DEX makes sneaking past the guards the best option. She draws 1 card, a Nine of Spades, Jesse adds her 4 DEX and gets a 13. Sneaking into the Bandit camp is high risk action, so the Dealer flips a Queen of Hearts. She's been spotted!_
+ _Jesse encounters a group of heavily-armed bandits standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 4 DEX makes sneaking past the guards the best option. She draws 1 card, an 6 of Spades, Jesse adds her 4 DEX and gets a 10. Sneaking into the Bandit camp is high risk action, needing a 12. She's been spotted!_
 </details>
 
 ### Healing
@@ -427,8 +432,6 @@ Resting for a few minutes and having a drink of water or a bite of food restores
 
 ### Exhaustion
 A PC that is **exhausted** of crucial resources (such as food and water) is unable to recover HP or Ability scores. Anyone exhausted of resources for more than a day adds **Fatigue** to their inventory for each day they've been without necessary supplies. Each Fatigue takes up one slot in a PCs inventory and lasts until they are able to recuperate (such as a good night's rest and a meal in a safehouse). PCs can also gain Fatigue through the fiction.
-
-### Ability Score Damage
 
 ### Reactions
 When PCs encounter an NPC whose reaction to the party is not obvious, the Dealer draws 1 card from their deck and compares the results to the table below:
@@ -442,8 +445,8 @@ When PCs encounter an NPC whose reaction to the party is not obvious, the Dealer
 | 13          	| Helpful 	| Wary    	| Curious  	| Kind    	|
 | Red Joker   	| Ally    	| Ally    	| Ally     	| Ally    	|
 
-### Morale
-Enemies must pass a 7 on a WIL contested action to avoid fleeing when they take their first casualty (moderate risk) and again when they lose half their number (deadly risk). Groups (e.g. bandits and lawmen) may use their leader's WIL in place of their own. Solo enemies must save when they're reduced to 0 HP. PCs never have to pass a morale contested action.
+### Morale Save
+Enemies must pass a 9 on a WIL save to avoid fleeing when they take their first casualty (no risk) and again when they lose half their number (high risk). Groups (e.g. bandits and lawmen) may use their leader's WIL in place of their own. Solo enemies must save when they're reduced to 0 HP. PCs never have to pass a morale save.
 
 ### Hirelings
 PCs can hire **Hirelings** to aid them in their expedition. To create a hireling draw 4 cards and divide them by suit. Give them an improvised weapon (1/2/3). You use the **Backgrounds & Traits** section to further flesh them out. Hirelings cost between 1 and 3 dollars per week, or a share of treasure the group obtains.
@@ -472,11 +475,11 @@ When it is the party's turn to act, the players may take their turn in any order
   <summary>
 Expand For Example
  </summary>
- _Jesse has been discovered sneaking into the camp of the One Eye gang. In order to make a move before the bandits, she flips an Ace of Diamons and adds her Dex of 4. The Bandits draw an 8 of Spades. The Bandits win and get to attack first._
+ _Jesse has been discovered sneaking into the camp of the One Eye gang. In order to make a move before the bandits, she flips an Ace of Diamonds and adds her DEX of 4. The Bandits draw an 8 of Spades. The Bandits win and get to attack first._
 </details>
 
 ### Attacks & Damage
-The attacker and defender make a STR contested action for melee attacks and a DEX contested action for ranged attacks. If it is successful, the attacker hits. If it fails, the attack misses. The attacker flips 1 card from the deck and deals damaged based on the Tier of card flipped.
+The attacker and defender make a STR contested action for melee attacks and a DEX contested action for ranged attacks. If it is successful, the attack hits. If it fails, the attack misses. The attacker flips 1 card from the deck and deals damaged based on the Tier of card flipped.
 
 
 <details markdown="block">
@@ -498,7 +501,7 @@ If fighting from an advantagous position (such as against a helpless foe, or thr
 If fighting from a poor position (such as in the dark, or while riding on a galloping horse), the attack is considered **impaired**, the attacker draws 1 extra card and must use the lower of two results. Impaired attacks *cannot* be cheated.
 
 ### Critical Damage
-Damage that reduces a target's HP below 0 carries over to GRT, reducing it until all damage has been dealt. They must make a 7 GRT contested action or take **critical damage**.
+Damage that reduces a target's HP below 0 carries over to GRT, reducing it until all damage has been dealt. They must make a 10 GRT save or take **critical damage**.
 
 Any PC that fails the GRT contested action suffers critical damage and is out of the fight. If their wounds are treated and they're able to rest, they will recover. If left untreated, they die within the hour.
 
@@ -510,13 +513,13 @@ STR: Injured
 DEX: Hobbled
 WIL: Shocked
 
-Players can accumulate multiples of the above conditions, but if they gather 1 of each, then they become incapable of continuing to adventure. If a character accumulates more conditions than the associated ability score that character dies (e.g. a character with 3 WIL and receive 3 Shocked conditions and generally be okay. If they receive a 4th Shocked condition, then that character dies).
+Players can accumulate multiples of the above conditions, but if they gather 1 of each, then they become incapable of continuing to adventure as they're just too deblitated to continue. If a character accumulates more conditions than the associated ability score that character dies (e.g. a character with 3 WIL and receive 3 Shocked conditions and generally be okay. If they receive a 4th Shocked condition, then that character dies).
 
 ### Scars
 When damage to a PC reduces their HP to exactly 0, they may be changed by the hand fate has dealt them and changed forever. See the [**Scars**] table for more.
 
-### Unconscious & Death
-When a character dies, the player is free to create a new character or take control of a hireling. The immediately join the party in order to reduce downtime. If the player takes control of a hireling, they immediately Draw 2 for each stat and Draw 1 for their HP bringing them closer to the rest of the party.
+### Death
+When a character dies, the player is free to create a new character or take control of a hireling. The immediately join the party in order to reduce downtime. If the player takes control of a hireling, they immediately shuffle their hand, discard pile, and deck, Draw 3 cards and divide them by suit. They then shuffle those cards back into the deck and draw 5 cards, as though it were a new adventure day.
 
 ### Posses
 Large groups of similar fighters, like bandits, outlaws, lawmen are treated as a single **posse**. When a posse takes critical damage, it is routed or otherwise weakend. When it reaches 0 STR, it is destroyed.
@@ -525,7 +528,7 @@ Attacks against a posse by individuals are **impaired**
 Attacks against individuals by a posse are **enhanced** and increase the final damage by 3 (this overrides the additional 1 damage from multiple attackers, as a posse is already a group of multiple attackers just more organized).
 
 ### Turning Tail
-Running away from a gunfight always requires a 11 DEX contested action, as well as a safe destination. This is why groups of bandits and outlaws may have several safe houses or hideouts to retreat to when a plan goes poorly.
+Running away from a gunfight always requires a 11 DEX contested action, as well as a safe destination. This is why groups of bandits and outlaws may have several safe houses or hideouts to retreat to when a plan goes poorly. If the save is successful, the party is able to escape successfully. If it fails, they can still run away but there will be complications or consequences for doing so.
 
 ### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Compare the result on the table below to the amount of HP lost. For example, if a PC went from 4 HP to 0 HP, they would look at entry #4 (Broken Limb). They would then draw 1 card to see what limb was broken.
@@ -533,14 +536,14 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Compa
 |      |                                                              |
 |------ |---|
 | 1    | Lasting Scar: Draw 1 &#124; A-3: Neck, 4-6: Hands, 7-9: Eye, 10-12: Chest, 13: Legs, Joker: Ear. Draw 1. Add the tier to your max HP |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Draw 3. If the total is higher than your max HP, take the new result. |
+| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Draw 7. If the total is higher than your max GRT, take the new result. |
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are exhausted until you rest for a few hours. Then, Draw 1. Add that amount to your max HP. |
-| 4    | Broken Limb: Draw 1 &#124; A-5: Leg, 6-8: Arm, 9-11: Rib, 12-13: Skull. Once mended, Draw 3. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, Draw 3. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Draw 1 &#124; A-5: STR, 6-10: DEX, 11-Jokers: GRT. Draw 5. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, Draw 5. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a GRT save. If you pass, increase your max GRT by 1 Draw. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Draw 5. If the total is higher than your max GRT, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Dealer will tell you which. Then, make a GRT save. If you pass, increase your max GRT by 1 Draw. |
-| 11   | Mortal Wound: You are exhausted and out of action. You die in one hour unless healed. Upon recovery, Draw 2. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, Draw 5. If the total is higher than your max HP, take the new result. |
+| 4    | Broken Limb: Draw 1 &#124; A-5: Leg, 6-8: Arm, 9-11: Rib, 12-13: Skull. Once mended, Draw 7. If the total is higher than your max GRT, take the new result. |
+| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, Draw 7. If the total is higher than your max GRT, take the new result. |
+| 6    | Reorienting Head Wound: Draw 1 &#124; A-5: STR, 6-10: DEX, 11-Jokers: GRT. Draw 7. If the total is higher than your current ability score, take the new result. |
+| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, Draw 7. If the total is higher than your max DEX, take the new result. |
+| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a GRT save. If you pass, increase your max GRT by 1. |
+| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Draw 7. If the total is higher than your max WIL, take the new result. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The Dealer will tell you which. Then, make a GRT save. If you pass, increase your max GRT by 1. |
+| 11   | Mortal Wound: You are exhausted and out of action. You die in one hour unless healed. Upon recovery, Draw 1. Add the tier to your max HP. |
+| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, Draw 3. If the total is higher than your max GRT, take the new result. |
