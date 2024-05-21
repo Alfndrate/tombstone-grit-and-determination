@@ -4,13 +4,22 @@ title: SRD
 nav_order: 2
 ---
 
-# Tombstone - Grit & Determination System Reference Document (v.0.1)
+# Tombstone - Grit & Determination System Reference Document (v.0.3)
 
 **Tombstone - Grit & Determination** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 
 **Tombstone - Grit & Determination** is an adventure game for one referee (the **Dealer**) and at least one other player.
 Players act as hardened adventurers exploring a badland filled with odd folk, gamblin', and danger in them thar hills!
+
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Overview
 Fill this in later
@@ -35,6 +44,9 @@ Players should always know and understand the high level consequences of their a
 
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+
+[back to index](#index)
+<p></p>
 
 ## Principles for Dealers
 
@@ -84,6 +96,9 @@ Players trust one another to engage with the shared setting, character goals, an
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
+[back to index](#index)
+<p></p>
+
 ## Principles for Players
 ### Agency
 - Attributes and related saves do not define your character. They are tools.
@@ -115,6 +130,9 @@ Players trust one another to engage with the shared setting, character goals, an
 - Set goals and use your meager means to take steps forward.
 - Expect nothing. Earn your reputation.
 - Keep things moving forward and play to see what happens.
+
+[back to index](#index)
+<p></p>
 
 ## Character Creation
  
@@ -265,6 +283,9 @@ Separate the deck into its suits, draw once for each trait.
 | 6 	| Defrauded 	| 13 	| Framed		|
 | 7 	| Demoted 		| | |
 
+[back to index](#index)
+<p></p>
+
 ### Inventory
 
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). Overall, this inventory system is supposed to be firm, but abstract. A character can carry 9 large books in both hands, but they won't have the ability to carry much else.
@@ -379,6 +400,9 @@ While Tombstone doesn't have classes, the wild west holds a special visual appea
 | 3 days' rations       	|
 | torch                 	|
 
+
+[back to index](#index)
+<p></p>
 
 ## Rules
 ### The Deck of fate
@@ -563,3 +587,6 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Compa
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Dealer will tell you which. Then, make a GRT save. If you pass, increase your max GRT by 1. |
 | 11   | Mortal Wound: You are exhausted and out of action. You die in one hour unless healed. Upon recovery, Draw 1. Add the tier to your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, Draw 3. If the total is higher than your max GRT, take the new result. |
+
+[back to index](#index)
+<p></p>
